@@ -19,7 +19,7 @@ figcaption {font-size: 15px;}
   margin: 0 auto;
 }
 
-#details {
+#details div{
   float: left;
   background: red;
   padding
