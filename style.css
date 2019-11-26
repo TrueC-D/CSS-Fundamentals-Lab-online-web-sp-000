@@ -20,5 +20,6 @@ figcaption {font-size: 15px;}
 }
 
 #details {
-  display:;
+  float: left;
+  
 }
